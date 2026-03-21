@@ -34,8 +34,8 @@ current_focus: Building impactful real-world projects
 ## 🧩 02. FEATURED WORK
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prakashshar00&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true&title_color=00FF9C"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prakashshar00&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true&title_color=00FF9C"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prakashshar00&repo=prakashsharma21.github.io&theme=tokyonight&hide_border=true&title_color=00FF9C"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prakashshar00&repo=prakashshar00&theme=tokyonight&hide_border=true&title_color=00FF9C"/>
 </p>
 
 🧠 **What I Build:**
